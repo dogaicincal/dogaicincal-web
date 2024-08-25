@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "홈",
+            "artists": "아티스트",
+            "cities": "도시",
+            "countries": "국가"
+        }
+    },
+    "home": {
+        "project": "프로젝트",
+        "artist": "아티스트",
+        "song": "곡",
+        "detail": "세부사항"
+    },
+    "project": {
+        "song": "곡",
+        "year": "년도",
+        "director": "감독",
+        "prev": "이전",
+        "next": "다음",
+        "artists": "아티스트"
+    },
+    "artists": {
+        "searchPlaceholder": "아티스트 검색",
+        "artist": "아티스트",
+        "detail": "세부사항",
+        "project": "프로젝트"
+    },
+    "artist": {
+        "city": "도시",
+        "country": "국가",
+        "projects": "프로젝트"
+    },
+    "cities": {
+        "searchPlaceholder": "도시 검색",
+        "city": "도시",
+        "detail": "세부사항",
+        "artist": "아티스트"
+    },
+    "city": {
+        "country": "국가",
+        "artists": "아티스트"
+    },
+    "countries": {
+        "searchPlaceholder": "국가 검색",
+        "country": "국가",
+        "detail": "세부사항",
+        "artist": "아티스트"
+    },
+    "country": {
+        "artists": "아티스트"
+    }
+}

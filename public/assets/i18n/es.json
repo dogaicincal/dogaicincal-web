@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Inicio",
+            "artists": "Artistas",
+            "cities": "Ciudades",
+            "countries": "Países"
+        }
+    },
+    "home": {
+        "project": "proyecto",
+        "artist": "artista",
+        "song": "canción",
+        "detail": "detalle"
+    },
+    "project": {
+        "song": "Canción",
+        "year": "Año",
+        "director": "Director",
+        "prev": "Anterior",
+        "next": "Siguiente",
+        "artists": "Artistas"
+    },
+    "artists": {
+        "searchPlaceholder": "buscar artista",
+        "artist": "artista",
+        "detail": "detalle",
+        "project": "proyecto"
+    },
+    "artist": {
+        "city": "Ciudad",
+        "country": "País",
+        "projects": "Proyectos"
+    },
+    "cities": {
+        "searchPlaceholder": "buscar ciudad",
+        "city": "Ciudad",
+        "detail": "detalle",
+        "artist": "artista"
+    },
+    "city": {
+        "country": "País",
+        "artists": "Artistas"
+    },
+    "countries": {
+        "searchPlaceholder": "buscar país",
+        "country": "País",
+        "detail": "detalle",
+        "artist": "artista"
+    },
+    "country": {
+        "artists": "Artistas"
+    }
+}

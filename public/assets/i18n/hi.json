@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "होम",
+            "artists": "कलाकार",
+            "cities": "शहर",
+            "countries": "देश"
+        }
+    },
+    "home": {
+        "project": "प्रोजेक्ट",
+        "artist": "कलाकार",
+        "song": "गाना",
+        "detail": "विवरण"
+    },
+    "project": {
+        "song": "गाना",
+        "year": "साल",
+        "director": "निर्देशक",
+        "prev": "पिछला",
+        "next": "अगला",
+        "artists": "कलाकार"
+    },
+    "artists": {
+        "searchPlaceholder": "कलाकार खोजें",
+        "artist": "कलाकार",
+        "detail": "विवरण",
+        "project": "प्रोजेक्ट"
+    },
+    "artist": {
+        "city": "शहर",
+        "country": "देश",
+        "projects": "प्रोजेक्ट्स"
+    },
+    "cities": {
+        "searchPlaceholder": "शहर खोजें",
+        "city": "शहर",
+        "detail": "विवरण",
+        "artist": "कलाकार"
+    },
+    "city": {
+        "country": "देश",
+        "artists": "कलाकार"
+    },
+    "countries": {
+        "searchPlaceholder": "देश खोजें",
+        "country": "देश",
+        "detail": "विवरण",
+        "artist": "कलाकार"
+    },
+    "country": {
+        "artists": "कलाकार"
+    }
+}

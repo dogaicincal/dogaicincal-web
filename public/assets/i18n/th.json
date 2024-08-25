@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "หน้าแรก",
+            "artists": "ศิลปิน",
+            "cities": "เมือง",
+            "countries": "ประเทศ"
+        }
+    },
+    "home": {
+        "project": "โครงการ",
+        "artist": "ศิลปิน",
+        "song": "เพลง",
+        "detail": "รายละเอียด"
+    },
+    "project": {
+        "song": "เพลง",
+        "year": "ปี",
+        "director": "ผู้กำกับ",
+        "prev": "ก่อนหน้า",
+        "next": "ถัดไป",
+        "artists": "ศิลปิน"
+    },
+    "artists": {
+        "searchPlaceholder": "ค้นหาศิลปิน",
+        "artist": "ศิลปิน",
+        "detail": "รายละเอียด",
+        "project": "โครงการ"
+    },
+    "artist": {
+        "city": "เมือง",
+        "country": "ประเทศ",
+        "projects": "โครงการ"
+    },
+    "cities": {
+        "searchPlaceholder": "ค้นหาเมือง",
+        "city": "เมือง",
+        "detail": "รายละเอียด",
+        "artist": "ศิลปิน"
+    },
+    "city": {
+        "country": "ประเทศ",
+        "artists": "ศิลปิน"
+    },
+    "countries": {
+        "searchPlaceholder": "ค้นหาประเทศ",
+        "country": "ประเทศ",
+        "detail": "รายละเอียด",
+        "artist": "ศิลปิน"
+    },
+    "country": {
+        "artists": "ศิลปิน"
+    }
+}

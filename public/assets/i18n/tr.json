@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Ana sayfa",
+            "artists": "Sanatçılar",
+            "cities": "Şehirler",
+            "countries": "Ülkeler"
+        }
+    },
+    "home": {
+        "project": "proje",
+        "artist": "sanatçı",
+        "song": "şarkı",
+        "detail": "detay"
+    },
+    "project": {
+        "song": "Şarkı",
+        "year": "Yıl",
+        "director": "Yönetmen",
+        "prev": "Önceki",
+        "next": "Sonraki",
+        "artists": "Sanatçılar"
+    },
+    "artists": {
+        "searchPlaceholder": "sanatçı ara",
+        "artist": "sanatçı",
+        "detail": "detay",
+        "project": "proje"
+    },
+    "artist": {
+        "city": "Şehir",
+        "country": "Ülke",
+        "projects": "Projeler"
+    },
+    "cities": {
+        "searchPlaceholder": "il ara",
+        "city": "Şehir",
+        "detail": "detay",
+        "artist": "sanatçı"
+    },
+    "city": {
+        "country": "Ülke",
+        "artists": "Sanatçılar"
+    },
+    "countries": {
+        "searchPlaceholder": "ülke ara",
+        "country": "Ülke",
+        "detail": "detay",
+        "artist": "sanatçı"
+    },
+    "country": {
+        "artists": "Sanatçılar"
+    }
+}

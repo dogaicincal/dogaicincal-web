@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Startseite",
+            "artists": "Künstler",
+            "cities": "Städte",
+            "countries": "Länder"
+        }
+    },
+    "home": {
+        "project": "Projekt",
+        "artist": "Künstler",
+        "song": "Lied",
+        "detail": "Detail"
+    },
+    "project": {
+        "song": "Lied",
+        "year": "Jahr",
+        "director": "Regisseur",
+        "prev": "Vorherige",
+        "next": "Nächste",
+        "artists": "Künstler"
+    },
+    "artists": {
+        "searchPlaceholder": "Künstler suchen",
+        "artist": "Künstler",
+        "detail": "Detail",
+        "project": "Projekt"
+    },
+    "artist": {
+        "city": "Stadt",
+        "country": "Land",
+        "projects": "Projekte"
+    },
+    "cities": {
+        "searchPlaceholder": "Stadt suchen",
+        "city": "Stadt",
+        "detail": "Detail",
+        "artist": "Künstler"
+    },
+    "city": {
+        "country": "Land",
+        "artists": "Künstler"
+    },
+    "countries": {
+        "searchPlaceholder": "Land suchen",
+        "country": "Land",
+        "detail": "Detail",
+        "artist": "Künstler"
+    },
+    "country": {
+        "artists": "Künstler"
+    }
+}

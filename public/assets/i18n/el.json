@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Αρχική",
+            "artists": "Καλλιτέχνες",
+            "cities": "Πόλεις",
+            "countries": "Χώρες"
+        }
+    },
+    "home": {
+        "project": "πρόγραμμα",
+        "artist": "καλλιτέχνης",
+        "song": "τραγούδι",
+        "detail": "λεπτομέρεια"
+    },
+    "project": {
+        "song": "Τραγούδι",
+        "year": "Έτος",
+        "director": "Σκηνοθέτης",
+        "prev": "Προηγούμενο",
+        "next": "Επόμενο",
+        "artists": "Καλλιτέχνες"
+    },
+    "artists": {
+        "searchPlaceholder": "αναζήτηση καλλιτέχνη",
+        "artist": "καλλιτέχνης",
+        "detail": "λεπτομέρεια",
+        "project": "πρόγραμμα"
+    },
+    "artist": {
+        "city": "Πόλη",
+        "country": "Χώρα",
+        "projects": "Προγράμματα"
+    },
+    "cities": {
+        "searchPlaceholder": "αναζήτηση πόλης",
+        "city": "Πόλη",
+        "detail": "λεπτομέρεια",
+        "artist": "καλλιτέχνης"
+    },
+    "city": {
+        "country": "Χώρα",
+        "artists": "Καλλιτέχνες"
+    },
+    "countries": {
+        "searchPlaceholder": "αναζήτηση χώρας",
+        "country": "Χώρα",
+        "detail": "λεπτομέρεια",
+        "artist": "καλλιτέχνης"
+    },
+    "country": {
+        "artists": "Καλλιτέχνες"
+    }
+}

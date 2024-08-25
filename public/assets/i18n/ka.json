@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "მთავარი გვერდი",
+            "artists": "შემქმნელები",
+            "cities": "ქალაქები",
+            "countries": "ქვეყნები"
+        }
+    },
+    "home": {
+        "project": "პროექტი",
+        "artist": "შემქმნელი",
+        "song": "გიორგი",
+        "detail": "დეტალი"
+    },
+    "project": {
+        "song": "გიორგი",
+        "year": "წელი",
+        "director": "რეჟისორი",
+        "prev": "წინა",
+        "next": "შემდეგი",
+        "artists": "შემქმნელები"
+    },
+    "artists": {
+        "searchPlaceholder": "შემქმნელი მოიძიე",
+        "artist": "შემქმნელი",
+        "detail": "დეტალი",
+        "project": "პროექტი"
+    },
+    "artist": {
+        "city": "ქალაქი",
+        "country": "ქვეყანა",
+        "projects": "პროექტები"
+    },
+    "cities": {
+        "searchPlaceholder": "ქალაქი მოიძიე",
+        "city": "ქალაქი",
+        "detail": "დეტალი",
+        "artist": "შემქმნელი"
+    },
+    "city": {
+        "country": "ქვეყანა",
+        "artists": "შემქმნელები"
+    },
+    "countries": {
+        "searchPlaceholder": "ქვეყანა მოიძიე",
+        "country": "ქვეყანა",
+        "detail": "დეტალი",
+        "artist": "შემქმნელი"
+    },
+    "country": {
+        "artists": "შემქმნელები"
+    }
+}

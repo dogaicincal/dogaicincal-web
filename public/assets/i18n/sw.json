@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Nyumbani",
+            "artists": "Wasanii",
+            "cities": "Miji",
+            "countries": "Nchi"
+        }
+    },
+    "home": {
+        "project": "mradi",
+        "artist": "msanii",
+        "song": "wimbo",
+        "detail": "maelezo"
+    },
+    "project": {
+        "song": "Wimbo",
+        "year": "Mwaka",
+        "director": "Mkurugenzi",
+        "prev": "Previous",
+        "next": "Next",
+        "artists": "Wasanii"
+    },
+    "artists": {
+        "searchPlaceholder": "tafuta msanii",
+        "artist": "msanii",
+        "detail": "maelezo",
+        "project": "mradi"
+    },
+    "artist": {
+        "city": "Jiji",
+        "country": "Nchi",
+        "projects": "Miradi"
+    },
+    "cities": {
+        "searchPlaceholder": "tafuta jiji",
+        "city": "Jiji",
+        "detail": "maelezo",
+        "artist": "msanii"
+    },
+    "city": {
+        "country": "Nchi",
+        "artists": "Wasanii"
+    },
+    "countries": {
+        "searchPlaceholder": "tafuta nchi",
+        "country": "Nchi",
+        "detail": "maelezo",
+        "artist": "msanii"
+    },
+    "country": {
+        "artists": "Wasanii"
+    }
+}

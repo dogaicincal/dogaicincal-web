@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "الرئيسية",
+            "artists": "الفنانين",
+            "cities": "المدن",
+            "countries": "الدول"
+        }
+    },
+    "home": {
+        "project": "مشروع",
+        "artist": "فنان",
+        "song": "أغنية",
+        "detail": "تفاصيل"
+    },
+    "project": {
+        "song": "أغنية",
+        "year": "سنة",
+        "director": "مخرج",
+        "prev": "السابق",
+        "next": "التالي",
+        "artists": "الفنانين"
+    },
+    "artists": {
+        "searchPlaceholder": "ابحث عن فنان",
+        "artist": "فنان",
+        "detail": "تفاصيل",
+        "project": "مشروع"
+    },
+    "artist": {
+        "city": "مدينة",
+        "country": "دولة",
+        "projects": "مشاريع"
+    },
+    "cities": {
+        "searchPlaceholder": "ابحث عن مدينة",
+        "city": "مدينة",
+        "detail": "تفاصيل",
+        "artist": "فنان"
+    },
+    "city": {
+        "country": "دولة",
+        "artists": "الفنانين"
+    },
+    "countries": {
+        "searchPlaceholder": "ابحث عن دولة",
+        "country": "دولة",
+        "detail": "تفاصيل",
+        "artist": "فنان"
+    },
+    "country": {
+        "artists": "الفنانين"
+    }
+}

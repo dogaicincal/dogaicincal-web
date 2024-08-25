@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "হোম",
+            "artists": "শিল্পীরা",
+            "cities": "শহর",
+            "countries": "দেশ"
+        }
+    },
+    "home": {
+        "project": "প্রকল্প",
+        "artist": "শিল্পী",
+        "song": "গান",
+        "detail": "বিস্তারিত"
+    },
+    "project": {
+        "song": "গান",
+        "year": "বছর",
+        "director": "পরিচালক",
+        "prev": "পূর্ববর্তী",
+        "next": "পরবর্তী",
+        "artists": "শিল্পীরা"
+    },
+    "artists": {
+        "searchPlaceholder": "শিল্পী অনুসন্ধান করুন",
+        "artist": "শিল্পী",
+        "detail": "বিস্তারিত",
+        "project": "প্রকল্প"
+    },
+    "artist": {
+        "city": "শহর",
+        "country": "দেশ",
+        "projects": "প্রকল্প"
+    },
+    "cities": {
+        "searchPlaceholder": "শহর অনুসন্ধান করুন",
+        "city": "শহর",
+        "detail": "বিস্তারিত",
+        "artist": "শিল্পী"
+    },
+    "city": {
+        "country": "দেশ",
+        "artists": "শিল্পীরা"
+    },
+    "countries": {
+        "searchPlaceholder": "দেশ অনুসন্ধান করুন",
+        "country": "দেশ",
+        "detail": "বিস্তারিত",
+        "artist": "শিল্পী"
+    },
+    "country": {
+        "artists": "শিল্পীরা"
+    }
+}

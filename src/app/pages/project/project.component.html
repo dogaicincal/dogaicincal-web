@@ -1,0 +1,48 @@
+<br>
+<div class="row align-items-md-stretch">
+    <div class="col-md-6">
+        <div class="h-100 p-3 bg-body-tertiary border rounded-3">
+            <iframe class="rounded-3" width="100%" height="333px" [src]='videoUrl | safe' allowfullscreen></iframe>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+            <h2 class="text-center">{{projectModel.name}}</h2>
+            <ul class="list-group">
+                <li class="list-group-item">{{"project.song" | translate}}: {{projectModel.song.join(", ")}}</li>
+                <li class="list-group-item">{{"project.year" | translate}}: {{projectModel.year}}</li>
+                <li class="list-group-item">{{"project.director" | translate}}: {{projectModel.director}}</li>
+            </ul>
+            <div class="mt-5">
+                @if (prevButtonText) {
+                <!-- <a href="#/project/{{prevButtonText}}" class="btn btn-secondary float-start">{{"project.prev" |
+                    translate}}</a> -->
+                <a (click)="GoToProject(prevButtonText)" class="btn btn-secondary float-start">{{"project.prev" |
+                    translate}}</a>
+                }
+                @if (nextButtonText) {
+                <!-- <a href="#/project/{{nextButtonText}}" class="btn btn-secondary float-end">{{"project.next" |
+                    translate}}</a> -->
+                <a (click)="GoToProject(nextButtonText)" class="btn btn-secondary float-end">{{"project.next" |
+                    translate}}</a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row align-items-md-stretch mt-4">
+    <div class="col-md-6">
+        <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+            <h2>{{"project.artists" | translate}} ({{projectModel.artist.length}})</h2>
+            <div class="list-group">
+
+                @for (item of projectModel.artist; track $index) {
+                <a href="#/artist/{{projectModel.code}}/{{$index}}"
+                    class="list-group-item list-group-item-action">{{item.name}}
+                    ({{item.city}}-{{item.country}})</a>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

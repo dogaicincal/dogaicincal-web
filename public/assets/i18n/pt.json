@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Início",
+            "artists": "Artistas",
+            "cities": "Cidades",
+            "countries": "Países"
+        }
+    },
+    "home": {
+        "project": "projeto",
+        "artist": "artista",
+        "song": "música",
+        "detail": "detalhe"
+    },
+    "project": {
+        "song": "Música",
+        "year": "Ano",
+        "director": "Diretor",
+        "prev": "Anterior",
+        "next": "Próximo",
+        "artists": "Artistas"
+    },
+    "artists": {
+        "searchPlaceholder": "pesquisar artista",
+        "artist": "artista",
+        "detail": "detalhe",
+        "project": "projeto"
+    },
+    "artist": {
+        "city": "Cidade",
+        "country": "País",
+        "projects": "Projetos"
+    },
+    "cities": {
+        "searchPlaceholder": "pesquisar cidade",
+        "city": "Cidade",
+        "detail": "detalhe",
+        "artist": "artista"
+    },
+    "city": {
+        "country": "País",
+        "artists": "Artistas"
+    },
+    "countries": {
+        "searchPlaceholder": "pesquisar país",
+        "country": "País",
+        "detail": "detalhe",
+        "artist": "artista"
+    },
+    "country": {
+        "artists": "Artistas"
+    }
+}

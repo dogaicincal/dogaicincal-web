@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Koti",
+            "artists": "Artistit",
+            "cities": "Kaupungit",
+            "countries": "Maat"
+        }
+    },
+    "home": {
+        "project": "projekti",
+        "artist": "artisti",
+        "song": "laulu",
+        "detail": "yksityiskohta"
+    },
+    "project": {
+        "song": "Laulu",
+        "year": "Vuosi",
+        "director": "Ohjaaja",
+        "prev": "Edellinen",
+        "next": "Seuraava",
+        "artists": "Artistit"
+    },
+    "artists": {
+        "searchPlaceholder": "etsi artisti",
+        "artist": "artisti",
+        "detail": "yksityiskohta",
+        "project": "projekti"
+    },
+    "artist": {
+        "city": "Kaupunki",
+        "country": "Maa",
+        "projects": "Projektit"
+    },
+    "cities": {
+        "searchPlaceholder": "etsi kaupunki",
+        "city": "Kaupunki",
+        "detail": "yksityiskohta",
+        "artist": "artisti"
+    },
+    "city": {
+        "country": "Maa",
+        "artists": "Artistit"
+    },
+    "countries": {
+        "searchPlaceholder": "etsi maa",
+        "country": "Maa",
+        "detail": "yksityiskohta",
+        "artist": "artisti"
+    },
+    "country": {
+        "artists": "Artistit"
+    }
+}

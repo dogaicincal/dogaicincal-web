@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Hem",
+            "artists": "Artister",
+            "cities": "Städer",
+            "countries": "Länder"
+        }
+    },
+    "home": {
+        "project": "projekt",
+        "artist": "artist",
+        "song": "sång",
+        "detail": "detalj"
+    },
+    "project": {
+        "song": "Sång",
+        "year": "År",
+        "director": "Regissör",
+        "prev": "Föregående",
+        "next": "Nästa",
+        "artists": "Artister"
+    },
+    "artists": {
+        "searchPlaceholder": "sök artist",
+        "artist": "artist",
+        "detail": "detalj",
+        "project": "projekt"
+    },
+    "artist": {
+        "city": "Stad",
+        "country": "Land",
+        "projects": "Projekt"
+    },
+    "cities": {
+        "searchPlaceholder": "sök stad",
+        "city": "Stad",
+        "detail": "detalj",
+        "artist": "artist"
+    },
+    "city": {
+        "country": "Land",
+        "artists": "Artister"
+    },
+    "countries": {
+        "searchPlaceholder": "sök land",
+        "country": "Land",
+        "detail": "detalj",
+        "artist": "artist"
+    },
+    "country": {
+        "artists": "Artister"
+    }
+}

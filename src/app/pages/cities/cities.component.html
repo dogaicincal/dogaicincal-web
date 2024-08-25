@@ -1,0 +1,48 @@
+<br><br>
+<section class="top-info py-1 text-center container">
+    <div class="row py-lg-1">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <div class="input-group mb-1">
+                <input autofocus (keyup)="search($event)" type="text" class="form-control"
+                    placeholder="{{'cities.searchPlaceholder' | translate}}" aria-label="city"
+                    aria-describedby="basic-addon1">
+            </div>
+            <div class="">
+                {{cityList.length}} {{"cities.city" | translate}}
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="album py-5 bg-body-tertiary1">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+            @for (item of cityList; track $index) {
+            <div class="col">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <p class="card-text">
+                            {{item.name}}
+                            <br>
+                            <small class="text-body-secondary">{{item.country}}</small>
+                        </p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <a href="#/city/{{GetCityParams(item)}}" rel="noopener noreferrer" type="button"
+                                    class="btn btn-sm btn-outline-secondary">
+                                    {{"cities.detail" | translate}}
+                                </a>
+                            </div>
+                            <small class="text-body-secondary">{{item.artist.length}} {{"cities.artist" |
+                                translate}}</small>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+
+        </div>
+    </div>
+</div>

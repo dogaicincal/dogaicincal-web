@@ -1,0 +1,46 @@
+<section class="top-info py-1 text-center container">
+    <div class="row py-lg-1">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <p class="top-info-text-body lead text-body-secondary">
+                {{totalProject}} {{"home.project" | translate}} | {{totalArtist}} {{"home.artist" | translate}} |
+                {{totalSong}} {{"home.song" | translate}}
+            </p>
+        </div>
+    </div>
+</section>
+
+<div class="album py-5 bg-body-tertiary1">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+            @for (item of dicList; track $index) {
+            <div class="col">
+                <div class="card shadow-sm">
+                    <img src="{{GetProjectImageUrl(item.code)}}" width="100%" height="225" alt="" srcset="">
+
+                    <div class="card-body">
+                        <p class="card-text">
+                            {{item.name}}
+                            <br>
+                            ({{item.song.join(", ")}})
+                            <br>
+                            {{item.director}}
+                        </p>
+
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <a href="#/project/{{item.code}}" rel="noopener noreferrer" type="button"
+                                    class="btn btn-sm btn-outline-secondary">
+                                    {{ 'home.detail' | translate }}
+                                </a>
+                            </div>
+                            <small class="text-body-secondary">{{item.year}} - {{item.artist.length}} {{"home.artist" | translate}}</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            }
+
+        </div>
+    </div>
+</div>

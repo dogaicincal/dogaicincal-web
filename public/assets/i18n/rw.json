@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Ahabanza",
+            "artists": "Abahanzi",
+            "cities": "Imijyi",
+            "countries": "Ibihugu"
+        }
+    },
+    "home": {
+        "project": "Umushinga",
+        "artist": "Umuhanzi",
+        "song": "Indirimbo",
+        "detail": "Ibisobanuro"
+    },
+    "project": {
+        "song": "Indirimbo",
+        "year": "Umwaka",
+        "director": "Umuyobozi",
+        "prev": "Byabanje",
+        "next": "Hakurikiyeho",
+        "artists": "Abahanzi"
+    },
+    "artists": {
+        "searchPlaceholder": "shaka umuhanzi",
+        "artist": "Umuhanzi",
+        "detail": "Ibisobanuro",
+        "project": "Umushinga"
+    },
+    "artist": {
+        "city": "Umujyi",
+        "country": "Igihugu",
+        "projects": "Imishinga"
+    },
+    "cities": {
+        "searchPlaceholder": "shaka umujyi",
+        "city": "Umujyi",
+        "detail": "Ibisobanuro",
+        "artist": "Umuhanzi"
+    },
+    "city": {
+        "country": "Igihugu",
+        "artists": "Abahanzi"
+    },
+    "countries": {
+        "searchPlaceholder": "shaka igihugu",
+        "country": "Igihugu",
+        "detail": "Ibisobanuro",
+        "artist": "Umuhanzi"
+    },
+    "country": {
+        "artists": "Abahanzi"
+    }
+}

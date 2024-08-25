@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Начало",
+            "artists": "Изпълнители",
+            "cities": "Градове",
+            "countries": "Държави"
+        }
+    },
+    "home": {
+        "project": "проект",
+        "artist": "изпълнител",
+        "song": "песен",
+        "detail": "детайл"
+    },
+    "project": {
+        "song": "Песен",
+        "year": "Година",
+        "director": "Режисьор",
+        "prev": "Предишен",
+        "next": "Следващ",
+        "artists": "Изпълнители"
+    },
+    "artists": {
+        "searchPlaceholder": "търси изпълнител",
+        "artist": "изпълнител",
+        "detail": "детайл",
+        "project": "проект"
+    },
+    "artist": {
+        "city": "Град",
+        "country": "Държава",
+        "projects": "Проекти"
+    },
+    "cities": {
+        "searchPlaceholder": "търси град",
+        "city": "Град",
+        "detail": "детайл",
+        "artist": "изпълнител"
+    },
+    "city": {
+        "country": "Държава",
+        "artists": "Изпълнители"
+    },
+    "countries": {
+        "searchPlaceholder": "търси държава",
+        "country": "Държава",
+        "detail": "детайл",
+        "artist": "изпълнител"
+    },
+    "country": {
+        "artists": "Изпълнители"
+    }
+}

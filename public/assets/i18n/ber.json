@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "ⵜⵜⵓⵔⵜ",
+            "artists": "ⴰⵎⴻⵣⵔⵓⵉⵢ",
+            "cities": "ⵜⴰⴷⵙⴰⵏ",
+            "countries": "ⵜⴰⵎⵓⵔⵜ"
+        }
+    },
+    "home": {
+        "project": "ⴰⵎⴻⵣⵔⵓⵉⵢ",
+        "artist": "ⴰⵎⴻⵣⵔⵓⵉⵢ",
+        "song": "ⴰ♽ⴰⵣ",
+        "detail": "ⴰⵎⵥⵉⵔ"
+    },
+    "project": {
+        "song": "ⴰ♽ⴰⵣ",
+        "year": "ⴰⵏ",
+        "director": "ⴰⵎⴰⵏⴰⵔ",
+        "prev": "ⴰⵖⵕⵓⵎ",
+        "next": "ⴰⵇⴱⴰⵍⵉ",
+        "artists": "ⴰⵎⴻⵣⵔⵓⵉⵢ"
+    },
+    "artists": {
+        "searchPlaceholder": "ⵙⵅⵔ ⴰⵎⴻⵣⵔⵓⵉⵢ",
+        "artist": "ⴰⵎⴻⵣⵔⵓⵉⵢ",
+        "detail": "ⴰⵎⵥⵉⵔ",
+        "project": "ⴰⵎⴻⵣⵔⵓⵉⵢ"
+    },
+    "artist": {
+        "city": "ⵜⴰⴷⵙⴰ",
+        "country": "ⵜⴰⵎⵓⵔⵜ",
+        "projects": "ⴰⵎⴻⵣⵔⵓⵉⵢ"
+    },
+    "cities": {
+        "searchPlaceholder": "ⵙⵅⵔ ⵜⴰⴷⵙⴰ",
+        "city": "ⵜⴰⴷⵙⴰ",
+        "detail": "ⴰⵎⵥⵉⵔ",
+        "artist": "ⴰⵎⴻⵣⵔⵓⵉⵢ"
+    },
+    "city": {
+        "country": "ⵜⴰⵎⵓⵔⵜ",
+        "artists": "ⴰⵎⴻⵣⵔⵓⵉⵢ"
+    },
+    "countries": {
+        "searchPlaceholder": "ⵙⵅⵔ ⵜⴰⵎⵓⵔⵜ",
+        "country": "ⵜⴰⵎⵓⵔⵜ",
+        "detail": "ⴰⵎⵥⵉⵔ",
+        "artist": "ⴰⵎⴻⵣⵔⵓⵉⵢ"
+    },
+    "country": {
+        "artists": "ⴰⵎⴻⵣⵔⵓⵉⵢ"
+    }
+}

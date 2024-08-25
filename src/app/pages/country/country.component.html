@@ -1,0 +1,21 @@
+<br>
+<div class="row align-items-md-stretch mt-4">
+    <div class="col-md-6">
+        <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+            <h2 class="text-center">{{countryModel.name}}</h2>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+            <h2>{{"country.artists" | translate}} ({{countryModel.artist.length}})</h2>
+            <div class="list-group">
+
+                @for (item of countryModel.artist; track $index) {
+                <a href="#/artist/{{GetArtistParams(item)}}" class="list-group-item list-group-item-action">{{item}}
+                </a>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

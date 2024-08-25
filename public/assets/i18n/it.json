@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Home",
+            "artists": "Artisti",
+            "cities": "Città",
+            "countries": "Paesi"
+        }
+    },
+    "home": {
+        "project": "progetto",
+        "artist": "artista",
+        "song": "canzone",
+        "detail": "dettaglio"
+    },
+    "project": {
+        "song": "Canzone",
+        "year": "Anno",
+        "director": "Regista",
+        "prev": "Precedente",
+        "next": "Successivo",
+        "artists": "Artisti"
+    },
+    "artists": {
+        "searchPlaceholder": "cerca artista",
+        "artist": "artista",
+        "detail": "dettaglio",
+        "project": "progetto"
+    },
+    "artist": {
+        "city": "Città",
+        "country": "Paese",
+        "projects": "Progetti"
+    },
+    "cities": {
+        "searchPlaceholder": "cerca città",
+        "city": "Città",
+        "detail": "dettaglio",
+        "artist": "artista"
+    },
+    "city": {
+        "country": "Paese",
+        "artists": "Artisti"
+    },
+    "countries": {
+        "searchPlaceholder": "cerca paese",
+        "country": "Paese",
+        "detail": "dettaglio",
+        "artist": "artista"
+    },
+    "country": {
+        "artists": "Artisti"
+    }
+}

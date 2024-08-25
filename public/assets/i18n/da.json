@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Hjem",
+            "artists": "Kunstnere",
+            "cities": "Byer",
+            "countries": "Lande"
+        }
+    },
+    "home": {
+        "project": "projekt",
+        "artist": "kunstner",
+        "song": "sang",
+        "detail": "detalje"
+    },
+    "project": {
+        "song": "Sang",
+        "year": "År",
+        "director": "Instruktør",
+        "prev": "Forrige",
+        "next": "Næste",
+        "artists": "Kunstnere"
+    },
+    "artists": {
+        "searchPlaceholder": "søg kunstner",
+        "artist": "kunstner",
+        "detail": "detalje",
+        "project": "projekt"
+    },
+    "artist": {
+        "city": "By",
+        "country": "Land",
+        "projects": "Projekter"
+    },
+    "cities": {
+        "searchPlaceholder": "søg by",
+        "city": "By",
+        "detail": "detalje",
+        "artist": "kunstner"
+    },
+    "city": {
+        "country": "Land",
+        "artists": "Kunstnere"
+    },
+    "countries": {
+        "searchPlaceholder": "søg land",
+        "country": "Land",
+        "detail": "detalje",
+        "artist": "kunstner"
+    },
+    "country": {
+        "artists": "Kunstnere"
+    }
+}

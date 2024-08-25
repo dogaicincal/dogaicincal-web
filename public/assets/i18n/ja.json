@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "ホーム",
+            "artists": "アーティスト",
+            "cities": "都市",
+            "countries": "国"
+        }
+    },
+    "home": {
+        "project": "プロジェクト",
+        "artist": "アーティスト",
+        "song": "曲",
+        "detail": "詳細"
+    },
+    "project": {
+        "song": "曲",
+        "year": "年",
+        "director": "監督",
+        "prev": "前",
+        "next": "次",
+        "artists": "アーティスト"
+    },
+    "artists": {
+        "searchPlaceholder": "アーティストを検索",
+        "artist": "アーティスト",
+        "detail": "詳細",
+        "project": "プロジェクト"
+    },
+    "artist": {
+        "city": "都市",
+        "country": "国",
+        "projects": "プロジェクト"
+    },
+    "cities": {
+        "searchPlaceholder": "都市を検索",
+        "city": "都市",
+        "detail": "詳細",
+        "artist": "アーティスト"
+    },
+    "city": {
+        "country": "国",
+        "artists": "アーティスト"
+    },
+    "countries": {
+        "searchPlaceholder": "国を検索",
+        "country": "国",
+        "detail": "詳細",
+        "artist": "アーティスト"
+    },
+    "country": {
+        "artists": "アーティスト"
+    }
+}

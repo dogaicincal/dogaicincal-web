@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Home",
+            "artists": "Artists",
+            "cities": "Cities",
+            "countries": "Countries"
+        }
+    },
+    "home": {
+        "project": "project",
+        "artist": "artist",
+        "song": "song",
+        "detail": "detail"
+    },
+    "project": {
+        "song": "Song",
+        "year": "Year",
+        "director": "Director",
+        "prev": "Previous",
+        "next": "Next",
+        "artists": "Artists"
+    },
+    "artists": {
+        "searchPlaceholder": "search artist",
+        "artist": "artist",
+        "detail": "detail",
+        "project": "project"
+    },
+    "artist": {
+        "city": "City",
+        "country": "Country",
+        "projects": "Projects"
+    },
+    "cities": {
+        "searchPlaceholder": "search city",
+        "city": "City",
+        "detail": "detail",
+        "artist": "artist"
+    },
+    "city": {
+        "country": "Country",
+        "artists": "Artists"
+    },
+    "countries": {
+        "searchPlaceholder": "search country",
+        "country": "Country",
+        "detail": "detail",
+        "artist": "artist"
+    },
+    "country": {
+        "artists": "Artists"
+    }
+}

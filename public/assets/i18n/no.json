@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Hjem",
+            "artists": "Artister",
+            "cities": "Byer",
+            "countries": "Land"
+        }
+    },
+    "home": {
+        "project": "prosjekt",
+        "artist": "artist",
+        "song": "sang",
+        "detail": "detalj"
+    },
+    "project": {
+        "song": "Sang",
+        "year": "År",
+        "director": "Regissør",
+        "prev": "Forrige",
+        "next": "Neste",
+        "artists": "Artister"
+    },
+    "artists": {
+        "searchPlaceholder": "søk etter artist",
+        "artist": "artist",
+        "detail": "detalj",
+        "project": "prosjekt"
+    },
+    "artist": {
+        "city": "By",
+        "country": "Land",
+        "projects": "Prosjekter"
+    },
+    "cities": {
+        "searchPlaceholder": "søk etter by",
+        "city": "By",
+        "detail": "detalj",
+        "artist": "artist"
+    },
+    "city": {
+        "country": "Land",
+        "artists": "Artister"
+    },
+    "countries": {
+        "searchPlaceholder": "søk etter land",
+        "country": "Land",
+        "detail": "detalj",
+        "artist": "artist"
+    },
+    "country": {
+        "artists": "Artister"
+    }
+}

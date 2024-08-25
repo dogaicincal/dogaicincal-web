@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Baile",
+            "artists": "Ealaíontóirí",
+            "cities": "Cathracha",
+            "countries": "Tíortha"
+        }
+    },
+    "home": {
+        "project": "tionscadal",
+        "artist": "ealaíontóir",
+        "song": "amhrán",
+        "detail": "sonraí"
+    },
+    "project": {
+        "song": "Amhrán",
+        "year": "Bliain",
+        "director": "Stiúrthóir",
+        "prev": "Roimhe",
+        "next": "Tíomáin",
+        "artists": "Ealaíontóirí"
+    },
+    "artists": {
+        "searchPlaceholder": "cuardaigh ealaíontóir",
+        "artist": "ealaíontóir",
+        "detail": "sonraí",
+        "project": "tionscadal"
+    },
+    "artist": {
+        "city": "Cathair",
+        "country": "Tír",
+        "projects": "Tionscadail"
+    },
+    "cities": {
+        "searchPlaceholder": "cuardaigh cathair",
+        "city": "Cathair",
+        "detail": "sonraí",
+        "artist": "ealaíontóir"
+    },
+    "city": {
+        "country": "Tír",
+        "artists": "Ealaíontóirí"
+    },
+    "countries": {
+        "searchPlaceholder": "cuardaigh tír",
+        "country": "Tír",
+        "detail": "sonraí",
+        "artist": "ealaíontóir"
+    },
+    "country": {
+        "artists": "Ealaíontóirí"
+    }
+}

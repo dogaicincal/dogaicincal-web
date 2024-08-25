@@ -1,0 +1,25 @@
+<br>
+<div class="row align-items-md-stretch mt-4">
+    <div class="col-md-6">
+        <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+            <h2 class="text-center">{{artistModel.name}}</h2>
+            <ul class="list-group">
+                <li class="list-group-item">{{"artist.city" | translate}}: {{artistModel.city}}</li>
+                <li class="list-group-item">{{"artist.country" | translate}}: {{artistModel.country}}</li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="h-100 p-5 bg-body-tertiary border rounded-3">
+            <h2>{{"artist.projects" | translate}} ({{artistModel.project.length}})</h2>
+            <div class="list-group">
+
+                @for (item of artistModel.project; track $index) {
+                <a href="#/project/{{GetProjectCode(item)}}" class="list-group-item list-group-item-action">{{item}}
+                </a>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

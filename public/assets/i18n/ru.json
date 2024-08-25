@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Главная",
+            "artists": "Исполнители",
+            "cities": "Города",
+            "countries": "Страны"
+        }
+    },
+    "home": {
+        "project": "проект",
+        "artist": "исполнитель",
+        "song": "песня",
+        "detail": "подробности"
+    },
+    "project": {
+        "song": "Песня",
+        "year": "Год",
+        "director": "Режиссёр",
+        "prev": "Предыдущий",
+        "next": "Следующий",
+        "artists": "Исполнители"
+    },
+    "artists": {
+        "searchPlaceholder": "поиск исполнителя",
+        "artist": "исполнитель",
+        "detail": "подробности",
+        "project": "проект"
+    },
+    "artist": {
+        "city": "Город",
+        "country": "Страна",
+        "projects": "Проекты"
+    },
+    "cities": {
+        "searchPlaceholder": "поиск города",
+        "city": "Город",
+        "detail": "подробности",
+        "artist": "исполнитель"
+    },
+    "city": {
+        "country": "Страна",
+        "artists": "Исполнители"
+    },
+    "countries": {
+        "searchPlaceholder": "поиск страны",
+        "country": "Страна",
+        "detail": "подробности",
+        "artist": "исполнитель"
+    },
+    "country": {
+        "artists": "Исполнители"
+    }
+}

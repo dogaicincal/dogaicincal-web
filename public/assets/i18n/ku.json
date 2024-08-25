@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Malpera Serê",
+            "artists": "Artîstên",
+            "cities": "Bajar",
+            "countries": "Welat"
+        }
+    },
+    "home": {
+        "project": "proje",
+        "artist": "artîst",
+        "song": "stran",
+        "detail": "hûrgulî"
+    },
+    "project": {
+        "song": "Stran",
+        "year": "Sal",
+        "director": "Rehber",
+        "prev": "Pêşîn",
+        "next": "Piştî",
+        "artists": "Artîstên"
+    },
+    "artists": {
+        "searchPlaceholder": "artîst lêgerîn",
+        "artist": "artîst",
+        "detail": "hûrgulî",
+        "project": "proje"
+    },
+    "artist": {
+        "city": "Bajar",
+        "country": "Welat",
+        "projects": "Projeyên"
+    },
+    "cities": {
+        "searchPlaceholder": "bajar lêgerîn",
+        "city": "Bajar",
+        "detail": "hûrgulî",
+        "artist": "artîst"
+    },
+    "city": {
+        "country": "Welat",
+        "artists": "Artîstên"
+    },
+    "countries": {
+        "searchPlaceholder": "welat lêgerîn",
+        "country": "Welat",
+        "detail": "hûrgulî",
+        "artist": "artîst"
+    },
+    "country": {
+        "artists": "Artîstên"
+    }
+}

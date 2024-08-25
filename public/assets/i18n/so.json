@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Bogga Hore",
+            "artists": "Fannaaniin",
+            "cities": "Magaalooyinka",
+            "countries": "Dalalka"
+        }
+    },
+    "home": {
+        "project": "mashruuc",
+        "artist": "fannaan",
+        "song": "hees",
+        "detail": "faahfaahin"
+    },
+    "project": {
+        "song": "Hees",
+        "year": "Sano",
+        "director": "Agaasimaha",
+        "prev": "Hore",
+        "next": "Xiga",
+        "artists": "Fannaaniin"
+    },
+    "artists": {
+        "searchPlaceholder": "raadso fannaan",
+        "artist": "fannaan",
+        "detail": "faahfaahin",
+        "project": "mashruuc"
+    },
+    "artist": {
+        "city": "Magaalo",
+        "country": "Dal",
+        "projects": "Mashruucyo"
+    },
+    "cities": {
+        "searchPlaceholder": "raadso magaalo",
+        "city": "Magaalo",
+        "detail": "faahfaahin",
+        "artist": "fannaan"
+    },
+    "city": {
+        "country": "Dal",
+        "artists": "Fannaaniin"
+    },
+    "countries": {
+        "searchPlaceholder": "raadso dal",
+        "country": "Dal",
+        "detail": "faahfaahin",
+        "artist": "fannaan"
+    },
+    "country": {
+        "artists": "Fannaaniin"
+    }
+}

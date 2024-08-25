@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "首页",
+            "artists": "艺术家",
+            "cities": "城市",
+            "countries": "国家"
+        }
+    },
+    "home": {
+        "project": "项目",
+        "artist": "艺术家",
+        "song": "歌曲",
+        "detail": "详情"
+    },
+    "project": {
+        "song": "歌曲",
+        "year": "年份",
+        "director": "导演",
+        "prev": "上一页",
+        "next": "下一页",
+        "artists": "艺术家"
+    },
+    "artists": {
+        "searchPlaceholder": "搜索艺术家",
+        "artist": "艺术家",
+        "detail": "详情",
+        "project": "项目"
+    },
+    "artist": {
+        "city": "城市",
+        "country": "国家",
+        "projects": "项目"
+    },
+    "cities": {
+        "searchPlaceholder": "搜索城市",
+        "city": "城市",
+        "detail": "详情",
+        "artist": "艺术家"
+    },
+    "city": {
+        "country": "国家",
+        "artists": "艺术家"
+    },
+    "countries": {
+        "searchPlaceholder": "搜索国家",
+        "country": "国家",
+        "detail": "详情",
+        "artist": "艺术家"
+    },
+    "country": {
+        "artists": "艺术家"
+    }
+}

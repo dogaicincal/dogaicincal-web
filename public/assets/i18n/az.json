@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Əsas səhifə",
+            "artists": "İncəsənətçilər",
+            "cities": "Şəhərlər",
+            "countries": "Ölkələr"
+        }
+    },
+    "home": {
+        "project": "layihə",
+        "artist": "incəsənətçi",
+        "song": "mahnı",
+        "detail": "təfərrüat"
+    },
+    "project": {
+        "song": "Mahnı",
+        "year": "İl",
+        "director": "Rejissor",
+        "prev": "Əvvəlki",
+        "next": "Sonrakı",
+        "artists": "İncəsənətçilər"
+    },
+    "artists": {
+        "searchPlaceholder": "incəsənətçi axtar",
+        "artist": "incəsənətçi",
+        "detail": "təfərrüat",
+        "project": "layihə"
+    },
+    "artist": {
+        "city": "Şəhər",
+        "country": "Ölkə",
+        "projects": "Layihələr"
+    },
+    "cities": {
+        "searchPlaceholder": "şəhər axtar",
+        "city": "Şəhər",
+        "detail": "təfərrüat",
+        "artist": "incəsənətçi"
+    },
+    "city": {
+        "country": "Ölkə",
+        "artists": "İncəsənətçilər"
+    },
+    "countries": {
+        "searchPlaceholder": "ölkə axtar",
+        "country": "Ölkə",
+        "detail": "təfərrüat",
+        "artist": "incəsənətçi"
+    },
+    "country": {
+        "artists": "İncəsənətçilər"
+    }
+}

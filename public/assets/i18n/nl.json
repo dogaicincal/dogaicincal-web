@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Home",
+            "artists": "Artiesten",
+            "cities": "Steden",
+            "countries": "Landen"
+        }
+    },
+    "home": {
+        "project": "project",
+        "artist": "artiest",
+        "song": "nummer",
+        "detail": "detail"
+    },
+    "project": {
+        "song": "Nummer",
+        "year": "Jaar",
+        "director": "Regisseur",
+        "prev": "Vorige",
+        "next": "Volgende",
+        "artists": "Artiesten"
+    },
+    "artists": {
+        "searchPlaceholder": "zoek artiest",
+        "artist": "artiest",
+        "detail": "detail",
+        "project": "project"
+    },
+    "artist": {
+        "city": "Stad",
+        "country": "Land",
+        "projects": "Projecten"
+    },
+    "cities": {
+        "searchPlaceholder": "zoek stad",
+        "city": "Stad",
+        "detail": "detail",
+        "artist": "artiest"
+    },
+    "city": {
+        "country": "Land",
+        "artists": "Artiesten"
+    },
+    "countries": {
+        "searchPlaceholder": "zoek land",
+        "country": "Land",
+        "detail": "detail",
+        "artist": "artiest"
+    },
+    "country": {
+        "artists": "Artiesten"
+    }
+}

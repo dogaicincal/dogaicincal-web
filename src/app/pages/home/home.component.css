@@ -1,0 +1,13 @@
+.top-info {
+    background-color: #cbd8c7;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.top-info-text-body {
+    margin-bottom: 3px;
+}

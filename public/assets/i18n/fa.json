@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "خانه",
+            "artists": "هنرمندان",
+            "cities": "شهرها",
+            "countries": "کشورها"
+        }
+    },
+    "home": {
+        "project": "پروژه",
+        "artist": "هنرمند",
+        "song": "آهنگ",
+        "detail": "جزئیات"
+    },
+    "project": {
+        "song": "آهنگ",
+        "year": "سال",
+        "director": "کارگردان",
+        "prev": "قبلی",
+        "next": "بعدی",
+        "artists": "هنرمندان"
+    },
+    "artists": {
+        "searchPlaceholder": "جستجوی هنرمند",
+        "artist": "هنرمند",
+        "detail": "جزئیات",
+        "project": "پروژه"
+    },
+    "artist": {
+        "city": "شهر",
+        "country": "کشور",
+        "projects": "پروژه‌ها"
+    },
+    "cities": {
+        "searchPlaceholder": "جستجوی شهر",
+        "city": "شهر",
+        "detail": "جزئیات",
+        "artist": "هنرمند"
+    },
+    "city": {
+        "country": "کشور",
+        "artists": "هنرمندان"
+    },
+    "countries": {
+        "searchPlaceholder": "جستجوی کشور",
+        "country": "کشور",
+        "detail": "جزئیات",
+        "artist": "هنرمند"
+    },
+    "country": {
+        "artists": "هنرمندان"
+    }
+}

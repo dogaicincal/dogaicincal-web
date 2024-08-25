@@ -1,0 +1,54 @@
+{
+    "common": {
+        "menu": {
+            "home": "Tuisblad",
+            "artists": "Kunstenaars",
+            "cities": "Stede",
+            "countries": "Lande"
+        }
+    },
+    "home": {
+        "project": "projek",
+        "artist": "kunstenaar",
+        "song": "lied",
+        "detail": "besonderhede"
+    },
+    "project": {
+        "song": "Lied",
+        "year": "Jaar",
+        "director": "Direkteur",
+        "prev": "Vorige",
+        "next": "Volgende",
+        "artists": "Kunstenaars"
+    },
+    "artists": {
+        "searchPlaceholder": "soek kunstenaar",
+        "artist": "kunstenaar",
+        "detail": "besonderhede",
+        "project": "projek"
+    },
+    "artist": {
+        "city": "Stad",
+        "country": "Land",
+        "projects": "Projekte"
+    },
+    "cities": {
+        "searchPlaceholder": "soek stad",
+        "city": "Stad",
+        "detail": "besonderhede",
+        "artist": "kunstenaar"
+    },
+    "city": {
+        "country": "Land",
+        "artists": "Kunstenaars"
+    },
+    "countries": {
+        "searchPlaceholder": "soek land",
+        "country": "Land",
+        "detail": "besonderhede",
+        "artist": "kunstenaar"
+    },
+    "country": {
+        "artists": "Kunstenaars"
+    }
+}
