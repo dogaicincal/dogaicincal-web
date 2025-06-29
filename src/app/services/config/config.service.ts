@@ -37,4 +37,8 @@ export class ConfigService {
   public GetYoutubeEmbedUrl(code: string) {
     return `https://www.youtube.com/embed/${code}`;
   }
+
+  public GetArchiveVideoUrl(code: string) {
+    return `https://archive.org/download/dic-video/${code}.mp4`;
+  }
 }

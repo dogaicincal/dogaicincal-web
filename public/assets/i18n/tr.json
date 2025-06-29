@@ -19,7 +19,8 @@
         "director": "Yönetmen",
         "prev": "Önceki",
         "next": "Sonraki",
-        "artists": "Sanatçılar"
+        "artists": "Sanatçılar",
+        "archiveVideoUrl": "Arşiv Video"
     },
     "artists": {
         "searchPlaceholder": "sanatçı ara",

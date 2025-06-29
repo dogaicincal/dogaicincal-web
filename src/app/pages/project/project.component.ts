@@ -63,4 +63,8 @@ export class ProjectComponent implements OnInit {
       this.router.navigate([`/project/${name}`]);
     });
   }
+
+  public GetArchiveVideoUrl() {
+    return this.configService.GetArchiveVideoUrl(this.projectModel.code);
+  }
 }

@@ -19,7 +19,8 @@
         "director": "Director",
         "prev": "Previous",
         "next": "Next",
-        "artists": "Artists"
+        "artists": "Artists",
+        "archiveVideoUrl": "Archive Video"
     },
     "artists": {
         "searchPlaceholder": "search artist",

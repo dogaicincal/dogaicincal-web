@@ -13,6 +13,12 @@
                 <li class="list-group-item">{{"project.year" | translate}}: {{projectModel.year}}</li>
                 <li class="list-group-item">{{"project.director" | translate}}: {{projectModel.director}}</li>
             </ul>
+
+            <div class="p-1">
+                <a class="btn btn-secondary btn-sm" href="{{GetArchiveVideoUrl()}}" target="_blank">
+                    {{"project.archiveVideoUrl" | translate}}</a>
+            </div>
+
             <div class="mt-5">
                 @if (prevButtonText) {
                 <!-- <a href="#/project/{{prevButtonText}}" class="btn btn-secondary float-start">{{"project.prev" |
