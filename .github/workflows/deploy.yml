@@ -28,5 +28,5 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
-        folder: dist/[project-name]/browser
+        folder: dist/dogaicincal-web/browser
         token: ${{ secrets.GITHUB_TOKEN }}
